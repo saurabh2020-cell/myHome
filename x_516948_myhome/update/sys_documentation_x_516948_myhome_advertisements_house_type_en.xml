@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="house_type" label="House Type" language="en" table="x_516948_myhome_advertisements">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>house_type</element>
+            <help/>
+            <hint/>
+            <label>House Type</label>
+            <language>en</language>
+            <name>x_516948_myhome_advertisements</name>
+            <plural>House Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-24 00:19:03</sys_created_on>
+            <sys_id>7d14db7b074a101063e0f7108c1ed0c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>House Type</sys_name>
+            <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+            <sys_update_name>sys_documentation_x_516948_myhome_advertisements_house_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-24 00:19:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

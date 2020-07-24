@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_516948_myhome.adv" name="x_516948_myhome.adv">c43a04f30782101063e0f7108c1ed0e6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 09:37:56</sys_created_on>
+        <sys_id>476a84370782101063e0f7108c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c43a04f30782101063e0f7108c1ed0e6</sys_name>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_476a84370782101063e0f7108c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-23 09:37:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

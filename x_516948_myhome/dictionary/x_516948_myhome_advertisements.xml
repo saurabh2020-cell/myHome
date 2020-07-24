@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Advertisements" max_length="40" name="x_516948_myhome_advertisements" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="one_bhk" label="House Type" mandatory="true" max_length="40" name="house_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 BHK" sequence="0" value="one_bhk"/>
+                <element inactive_on_update="false" label="2 BHK" sequence="1" value="two_bhk"/>
+                <element inactive_on_update="false" label="3 BHK" sequence="2" value="three_bhk"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Name of Adv" mandatory="true" max_length="40" name="name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="price" type="price"/>
+    </element>
+</database>
