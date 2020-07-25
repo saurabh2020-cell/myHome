@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Comments &amp; Information" section_id="0255c99407d6501063e0f7108c1ed069" sys_domain="global" table="x_516948_myhome_advertisements" version="3" view="create">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>commnets</element>
+            <element>your_comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-25 08:44:56</sys_created_on>
-            <sys_id>ce719e94079a501063e0f7108c1ed0f9</sys_id>
+            <sys_created_on>2020-07-25 09:35:26</sys_created_on>
+            <sys_id>ca0ddadc079a501063e0f7108c1ed095</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Comments &amp; Information" display_value="Comments &amp; Information" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">0255c99407d6501063e0f7108c1ed069</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-25 08:44:56</sys_updated_on>
+            <sys_updated_on>2020-07-25 09:35:26</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
