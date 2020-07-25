@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="43f2ded4079a501063e0f7108c1ed08b" sys_domain="global" table="x_516948_myhome_advertisements" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7f2ded4079a501063e0f7108c1ed08d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_516948_myhome_advertisements" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">cbf2ded4079a501063e0f7108c1ed061</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83f2ded4079a501063e0f7108c1ed08e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_516948_myhome_advertisements" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08b</sys_ui_form>
+            <sys_ui_section caption="Location" display_value="Location" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">cbf2ded4079a501063e0f7108c1ed062</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07f2ded4079a501063e0f7108c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_516948_myhome_advertisements" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08b</sys_ui_form>
+            <sys_ui_section caption="About Home" display_value="About Home" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">87f2ded4079a501063e0f7108c1ed063</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bf2ded4079a501063e0f7108c1ed094</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_516948_myhome_advertisements" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08b</sys_ui_form>
+            <sys_ui_section caption="Contacts" display_value="Contacts" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed064</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7f2ded4079a501063e0f7108c1ed0a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_516948_myhome_advertisements" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08b</sys_ui_form>
+            <sys_ui_section caption="Comments &amp; Information" display_value="Comments &amp; Information" name="x_516948_myhome_advertisements" sys_domain="global" view="72f2ded4079a501063e0f7108c1ed05e">43f2ded4079a501063e0f7108c1ed08a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_516948_myhome_advertisements</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:51:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43f2ded4079a501063e0f7108c1ed08b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_516948_myhome_advertisements</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_43f2ded4079a501063e0f7108c1ed08b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:51:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="My Advertises" name="My_Advertises">72f2ded4079a501063e0f7108c1ed05e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

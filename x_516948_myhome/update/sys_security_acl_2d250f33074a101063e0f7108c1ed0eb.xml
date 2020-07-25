@@ -3,7 +3,9 @@
         <active>true</active>
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
-        <condition/>
+        <condition table="x_516948_myhome_advertisements">name_advDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="name_adv" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
         <description>Default access control on x_516948_myhome_advertisements</description>
         <name>x_516948_myhome_advertisements</name>
         <operation display_value="delete">delete</operation>
@@ -12,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-23 23:13:45</sys_created_on>
         <sys_id>2d250f33074a101063e0f7108c1ed0eb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_516948_myhome_advertisements</sys_name>
         <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
         <sys_policy/>
         <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
         <sys_update_name>sys_security_acl_2d250f33074a101063e0f7108c1ed0eb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-23 23:13:45</sys_updated_on>
+        <sys_updated_on>2020-07-24 07:59:27</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

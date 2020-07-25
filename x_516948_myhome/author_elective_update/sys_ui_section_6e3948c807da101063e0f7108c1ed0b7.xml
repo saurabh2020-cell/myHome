@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Contacts" section_id="6e3948c807da101063e0f7108c1ed0b7" sys_domain="global" table="x_516948_myhome_advertisements" version="3" view="Search">
+        <sys_ui_section action="DELETE">
+            <caption>Contacts</caption>
+            <header>false</header>
+            <name>x_516948_myhome_advertisements</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-24 04:11:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e3948c807da101063e0f7108c1ed0b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contacts</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+            <sys_update_name>sys_ui_section_6e3948c807da101063e0f7108c1ed0b7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-24 04:11:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Search" name="Search">ee3948c807da101063e0f7108c1ed064</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyHome">9299487f0742101063e0f7108c1ed03e</application>
+        <file_path/>
+        <instance_id>57360ceadb87b70491232f17d49619d5</instance_id>
+        <instance_name>dev90905</instance_name>
+        <name>sys_ui_section_6e3948c807da101063e0f7108c1ed0b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Contacts" section_id="6e3948c807da101063e0f7108c1ed0b7" sys_domain="global" table="x_516948_myhome_advertisements" version="3" view="Search"><sys_ui_section action="INSERT_OR_UPDATE"><caption>Contacts</caption><header>false</header><name>x_516948_myhome_advertisements</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-24 04:11:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e3948c807da101063e0f7108c1ed0b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contacts</sys_name><sys_overrides/><sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package><sys_policy/><sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope><sys_update_name>sys_ui_section_6e3948c807da101063e0f7108c1ed0b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-24 04:11:12</sys_updated_on><sys_user/><title>false</title><view display_value="Search" name="Search">ee3948c807da101063e0f7108c1ed064</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1939052535</payload_hash>
+        <record_name>Advertisements</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 04:40:45</sys_created_on>
+        <sys_id>d59951d0071a501063e0f7108c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738445faab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 04:40:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>959951d0c11a501027ab8685cde318e8</update_guid>
+        <update_guid_history>959951d0c11a501027ab8685cde318e8:1939052535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 04:40:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>22cb0a9aad9e4c61932f18db06e6dd99</sys_id>
+        <sys_metadata>6e3948c807da101063e0f7108c1ed0b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contacts</sys_name>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_parent display_value="Advertisements">37404f7f070a101063e0f7108c1ed0d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_scope_delete display_value="">68202f5c702f43e282693854666de311</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6e3948c807da101063e0f7108c1ed0b7</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6e3948c807da101063e0f7108c1ed0b7">d59951d0071a501063e0f7108c1ed0e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 04:40:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

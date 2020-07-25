@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Advertisements" max_length="40" name="x_516948_myhome_advertisements" type="collection">
+    <element extends="task" label="Advertisements" max_length="40" name="x_516948_myhome_advertisements" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments_temp" max_length="40" name="comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments_temp" max_length="40" name="commnets" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="current_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="one_bhk" label="House Type" mandatory="true" max_length="40" name="house_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="1 BHK" sequence="0" value="one_bhk"/>
@@ -8,13 +14,14 @@
                 <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Name of Adv" mandatory="true" max_length="40" name="name" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
-            </choice>
-        </element>
+        <element attributes="edge_encryption_enabled=true" label="Locality" max_length="40" name="locality" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="Enter your name" label="Advertiser Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="encode_utf8=false" label="Ref Advertiser" mandatory="true" max_length="32" name="name_adv" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" mandatory="true" max_length="10" name="phone" type="string"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="price" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Territory" max_length="40" name="territory" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Your Comments" max_length="40" name="your_comments" type="string"/>
     </element>
 </database>

@@ -4,7 +4,7 @@
             <dependent_value/>
             <element>name</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 1</label>
             <language>en</language>
             <name>x_516948_myhome_advertisements</name>
@@ -14,16 +14,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4214db7b074a101063e0f7108c1ed0e8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:03</sys_updated_on>
+            <sys_updated_on>2020-07-24 02:11:20</sys_updated_on>
             <value>Choice 1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>name</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 2</label>
             <language>en</language>
             <name>x_516948_myhome_advertisements</name>
@@ -33,16 +33,16 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c214db7b074a101063e0f7108c1ed0ea</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-24 02:11:21</sys_updated_on>
             <value>Choice 2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>name</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Choice 3</label>
             <language>en</language>
             <name>x_516948_myhome_advertisements</name>
@@ -52,9 +52,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8e14db7b074a101063e0f7108c1ed0eb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-24 02:11:21</sys_updated_on>
             <value>Choice 3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -63,7 +63,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-07-24 00:19:04</sys_created_on>
-            <sys_id>ca14db7b074a101063e0f7108c1ed0e8</sys_id>
+            <sys_id>bdd593fb074a101063e0f7108c1ed03d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>name</sys_name>
             <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>

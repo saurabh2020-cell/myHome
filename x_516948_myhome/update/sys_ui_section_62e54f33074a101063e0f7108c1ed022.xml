@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-24 00:19:04</sys_created_on>
-            <sys_id>5e14db7b074a101063e0f7108c1ed0fb</sys_id>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>9e409a54079a501063e0f7108c1ed028</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,41 +18,69 @@
             <element>active</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-24 00:19:04</sys_created_on>
-            <sys_id>de14db7b074a101063e0f7108c1ed0fb</sys_id>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>12409a54079a501063e0f7108c1ed029</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>92409a54079a501063e0f7108c1ed029</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-24 00:19:04</sys_created_on>
-            <sys_id>5214db7b074a101063e0f7108c1ed0fc</sys_id>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>16409a54079a501063e0f7108c1ed029</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-24 00:19:04</sys_created_on>
-            <sys_id>d214db7b074a101063e0f7108c1ed0fc</sys_id>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>96409a54079a501063e0f7108c1ed029</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-24 00:19:04</sys_updated_on>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_adv</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 08:39:45</sys_created_on>
+            <sys_id>1a409a54079a501063e0f7108c1ed029</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_516948_myhome_advertisements" sys_domain="global" view="Default view">62e54f33074a101063e0f7108c1ed022</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 08:39:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-23 23:13:46</sys_created_on>
-        <sys_id>79254f33074a101063e0f7108c1ed004</sys_id>
+        <sys_id>01d553fb074a101063e0f7108c1ed021</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_516948_myhome_advertisements</sys_name>
         <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
         <sys_policy/>
         <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_79254f33074a101063e0f7108c1ed004</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_01d553fb074a101063e0f7108c1ed021</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-23 23:13:46</sys_updated_on>
     </ua_table_licensing_config>

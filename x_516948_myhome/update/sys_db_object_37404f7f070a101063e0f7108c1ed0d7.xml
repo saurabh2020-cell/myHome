@@ -14,7 +14,7 @@
         <label>Advertisements</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_516948_myhome_advertisements</name>
-        <number_ref display_value="ADV">b5254f33074a101063e0f7108c1ed017</number_ref>
+        <number_ref display_value="AD">b5254f33074a101063e0f7108c1ed017</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

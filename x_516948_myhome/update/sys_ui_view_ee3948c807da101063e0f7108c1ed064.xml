@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Search</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 04:11:12</sys_created_on>
+        <sys_id>ee3948c807da101063e0f7108c1ed064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_update_name>sys_ui_view_ee3948c807da101063e0f7108c1ed064</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 04:11:12</sys_updated_on>
+        <title>Search</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="About Home" section_id="4a55c99407d6501063e0f7108c1ed010" sys_domain="global" table="x_516948_myhome_advertisements" version="3" view="create">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>house_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 03:12:21</sys_created_on>
+            <sys_id>9655c99407d6501063e0f7108c1ed088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="About Home" display_value="About Home" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">4a55c99407d6501063e0f7108c1ed010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 03:12:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 03:12:21</sys_created_on>
+            <sys_id>1a55c99407d6501063e0f7108c1ed088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="About Home" display_value="About Home" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">4a55c99407d6501063e0f7108c1ed010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 03:12:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 03:12:21</sys_created_on>
+            <sys_id>9a55c99407d6501063e0f7108c1ed088</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="About Home" display_value="About Home" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">4a55c99407d6501063e0f7108c1ed010</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 03:12:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>About Home</caption>
+            <header>false</header>
+            <name>x_516948_myhome_advertisements</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-25 03:12:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a55c99407d6501063e0f7108c1ed010</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>About Home</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+            <sys_update_name>sys_ui_section_4a55c99407d6501063e0f7108c1ed010</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-25 03:12:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Create" name="create">1cb532579f2013001e0abde8132e70e4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
