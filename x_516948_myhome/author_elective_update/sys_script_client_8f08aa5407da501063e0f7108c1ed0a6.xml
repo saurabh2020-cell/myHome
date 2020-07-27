@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>temporary</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+ 
+ 
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 10:24:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f08aa5407da501063e0f7108c1ed0a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>temporary</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_update_name>sys_script_client_8f08aa5407da501063e0f7108c1ed0a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 10:27:47</sys_updated_on>
+        <table>x_516948_myhome_advertisements</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyHome">9299487f0742101063e0f7108c1ed03e</application>
+        <file_path/>
+        <instance_id>57360ceadb87b70491232f17d49619d5</instance_id>
+        <instance_name>dev90905</instance_name>
+        <name>sys_script_client_8f08aa5407da501063e0f7108c1ed0a6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;temporary&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+ 
+ 
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-25 10:24:53&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8f08aa5407da501063e0f7108c1ed0a6&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;temporary&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="MyHome" source="x_516948_myhome"&gt;9299487f0742101063e0f7108c1ed03e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyHome"&gt;9299487f0742101063e0f7108c1ed03e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_8f08aa5407da501063e0f7108c1ed0a6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-25 10:27:47&lt;/sys_updated_on&gt;&lt;table&gt;x_516948_myhome_advertisements&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1938881622</payload_hash>
+        <record_name>temporary</record_name>
+        <reverted_from/>
+        <source>66d5df7b074a101063e0f7108c1ed0df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 10:27:47</sys_created_on>
+        <sys_id>74096ed407da501063e0f7108c1ed0e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738583b3160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 10:27:47</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>f409a2d4c4da501044ffc65df9d6b5f1</update_guid>
+        <update_guid_history>f409a2d4c4da501044ffc65df9d6b5f1:-1938881622,9a58e2944dda5010b72f21c036988f62:-1988227023</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 01:18:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>2763bac8293e4679b7b513cb8e29fc11</sys_id>
+        <sys_metadata>8f08aa5407da501063e0f7108c1ed0a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>temporary</sys_name>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_parent display_value="Advertisements">37404f7f070a101063e0f7108c1ed0d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_scope_delete display_value="">68202f5c702f43e282693854666de311</sys_scope_delete>
+        <sys_update_name>sys_script_client_8f08aa5407da501063e0f7108c1ed0a6</sys_update_name>
+        <sys_update_version display_value="sys_script_client_8f08aa5407da501063e0f7108c1ed0a6">74096ed407da501063e0f7108c1ed0e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 01:18:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

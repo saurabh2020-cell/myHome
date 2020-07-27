@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Advertisements" max_length="40" name="x_516948_myhome_advertisements" sizeclass="4" type="collection">
+    <element extends="task" label="Advertisements" max_length="40" name="x_516948_myhome_advertisements" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Comments_temp" max_length="40" name="comment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Comments_temp" max_length="40" name="commnets" type="string"/>

@@ -4,27 +4,13 @@
             <element>phone</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-25 05:23:46</sys_created_on>
-            <sys_id>93636158071a501063e0f7108c1ed067</sys_id>
+            <sys_created_on>2020-07-27 01:27:59</sys_created_on>
+            <sys_id>c1a0837007de901063e0f7108c1ed080</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Contacts" display_value="Contacts" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">0655c99407d6501063e0f7108c1ed011</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-25 05:23:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>email</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-25 05:23:46</sys_created_on>
-            <sys_id>17636158071a501063e0f7108c1ed067</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Contacts" display_value="Contacts" name="x_516948_myhome_advertisements" sys_domain="global" view="1cb532579f2013001e0abde8132e70e4">0655c99407d6501063e0f7108c1ed011</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-25 05:23:46</sys_updated_on>
+            <sys_updated_on>2020-07-27 01:27:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>This script automatically fill some form fields.</description>
+        <field>active</field>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>autopopulate</name>
+        <order/>
+        <script><![CDATA[function onLoad(){
+	
+	g_form.addInfoMessage("I am ready and executing.");
+	g_form.addInfoMessage("this is active");
+   g_form.setValue('name',g_user.getFullName());
+
+	g_form.setReadOnly('name',true);
+	g_form.setValue('active','true');
+	jslog("Hello");
+	
+	var caller = g_form.getReference('name', doAlert); 
+function doAlert(caller) {
+
+	g_form.addInfoMessage('Caller Email is: ' + caller.email);
+
+}
+
+
+	
+	//
+/*	
+	var _user = g_form.getValue('name');
+ var userGR = new GlideRecord('sys_user');
+ userGR.addQuery('sys_id', _user);
+ userGR.query();
+ if(userGR.next())
+  {
+   g_form.setValue('email', userGR.email);
+  }
+
+
+	
+	
+	g_form.setValue('phone',g_user.phone);
+	*/
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 03:24:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dcd501d407d6501063e0f7108c1ed0c4</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>autopopulate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_update_name>sys_script_client_dcd501d407d6501063e0f7108c1ed0c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 10:27:28</sys_updated_on>
+        <table>x_516948_myhome_advertisements</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view>Create</view>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyHome">9299487f0742101063e0f7108c1ed03e</application>
+        <file_path/>
+        <instance_id>57360ceadb87b70491232f17d49619d5</instance_id>
+        <instance_name>dev90905</instance_name>
+        <name>sys_script_client_dcd501d407d6501063e0f7108c1ed0c4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description&gt;This script automatically fill some form fields.&lt;/description&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;false&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;autopopulate&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad(){
+	
+	g_form.addInfoMessage("I am ready and executing.");
+	g_form.addInfoMessage("this is active");
+   g_form.setValue('name',g_user.getFullName());
+
+	g_form.setReadOnly('name',true);
+	g_form.setValue('active','true');
+	jslog("Hello");
+	
+	var caller = g_form.getReference('name', doAlert); 
+function doAlert(caller) {
+
+	g_form.addInfoMessage('Caller Email is: ' + caller.email);
+
+}
+
+
+	
+	//
+/*	
+	var _user = g_form.getValue('name');
+ var userGR = new GlideRecord('sys_user');
+ userGR.addQuery('sys_id', _user);
+ userGR.query();
+ if(userGR.next())
+  {
+   g_form.setValue('email', userGR.email);
+  }
+
+
+	
+	
+	g_form.setValue('phone',g_user.phone);
+	*/
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-25 03:24:21&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;dcd501d407d6501063e0f7108c1ed0c4&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;autopopulate&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="MyHome" source="x_516948_myhome"&gt;9299487f0742101063e0f7108c1ed03e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyHome"&gt;9299487f0742101063e0f7108c1ed03e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_dcd501d407d6501063e0f7108c1ed0c4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-25 10:27:28&lt;/sys_updated_on&gt;&lt;table&gt;x_516948_myhome_advertisements&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view&gt;Create&lt;/view&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1133597805</payload_hash>
+        <record_name>autopopulate</record_name>
+        <reverted_from/>
+        <source>66d5df7b074a101063e0f7108c1ed0df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 10:27:29</sys_created_on>
+        <sys_id>dcf8a2d407da501063e0f7108c1ed0ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17385836a7f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 10:27:29</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>18f8a2d4bdda5010e4c7cc9e01a64fed</update_guid>
+        <update_guid_history>18f8a2d4bdda5010e4c7cc9e01a64fed:1133597805,d346ea5447da501076b637b79de93f59:-1668629551,5f946a5077da50102c1808441742446f:1973571946,50ec0e90639a5010b5806211c8ca10e1:2065313669,a06cce501e9a50102c94f13b5a2ee70c:-902897752,0f5fb198175a5010ea4c2c44b9943f9c:-199605661,63aebdd4385a50107383e64e055fea2d:-447905149,755e71949e5a5010ece171bf0746542a:657953657,0746f9d06f5a50100ac418ade1acb1ad:-258302703,62f1b190915a5010fd266fd1fca81334:-870306243,56184518b0d650109750dcf2bd3d79de:-1248708376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 01:18:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>01f80a98e5f24472800c20a00ec0dfc4</sys_id>
+        <sys_metadata>dcd501d407d6501063e0f7108c1ed0c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>autopopulate</sys_name>
+        <sys_package display_value="MyHome" source="x_516948_myhome">9299487f0742101063e0f7108c1ed03e</sys_package>
+        <sys_parent display_value="Advertisements">37404f7f070a101063e0f7108c1ed0d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyHome">9299487f0742101063e0f7108c1ed03e</sys_scope>
+        <sys_scope_delete display_value="">68202f5c702f43e282693854666de311</sys_scope_delete>
+        <sys_update_name>sys_script_client_dcd501d407d6501063e0f7108c1ed0c4</sys_update_name>
+        <sys_update_version display_value="sys_script_client_dcd501d407d6501063e0f7108c1ed0c4">dcf8a2d407da501063e0f7108c1ed0ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 01:18:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
